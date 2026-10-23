@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.arcodeeader"
+    namespace = "com.arcodeeader.app"
     compileSdk = 36
     ndkVersion = flutter.ndkVersion
 
@@ -19,7 +19,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.arcodeeader"
+        applicationId = "com.arcodeeader.app"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
